@@ -22,7 +22,7 @@ body{
 .navbar li{
     
     float: left;
-    margin-right: 400px;
+    margin-left: 390px;
 }
 
 /* Content  */
@@ -32,7 +32,7 @@ body{
     height: 700px;
     margin-top: 61px;
     padding-top: 150px;
-    background-color: rgb(188, 143, 143);
+    background-color: #bc8f8f;
     box-sizing: border-box;
 }
 .content-text{
