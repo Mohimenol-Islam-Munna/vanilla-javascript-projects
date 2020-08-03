@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    background-color:whitesmoke;
+}
+/* Navabr  */
+.navbar{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    padding: 20px;
+    font-size: 22px;
+    line-height: 100%;
+    background-color: indigo;
+}
+.navbar ol{
+    margin: 0px;
+    padding: 0px;
+    color: ivory;
+    list-style: none;
+    
+}
+.navbar li{
+    
+    float: left;
+    margin-right: 400px;
+}
+
+/* Content  */
+#content{
+    
+    width: 100%;
+    height: 700px;
+    margin-top: 61px;
+    padding-top: 150px;
+    background-color: rgb(188, 143, 143);
+    box-sizing: border-box;
+}
+.content-text{
+    padding: 50px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.content-text h2{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 15px;
+    color: ivory;
+    border: 1px solid indigo;
+    background-color: indigo;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+.content-text button{
+
+    width: 200px;
+    height: 45px;
+    display: block;
+    margin: auto;
+    color: ivory;
+    background-color: indigo;
+    border-radius: 15px;
+    font-size: 22px;
+    outline: none;
+
+}
